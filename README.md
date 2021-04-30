@@ -3,7 +3,7 @@ Repo contains metadata about approximately 350,000 published software titles
 
 Data was respectfully copied from the Library of Congress's copyright catalog https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First
 
-.7z file contains a single CSV file with the following columns:
+.7z file contains a single (~170MB) CSV file with the following columns:
 
 Copyright Number
 
