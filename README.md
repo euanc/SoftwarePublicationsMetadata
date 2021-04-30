@@ -1,5 +1,5 @@
 # SoftwarePublicationsMetadata
-Repo contains metadata about published software titles
+Repo contains metadata about approximately 350,000 published software titles
 
 Data was respectfully copied from the Library of Congress's copyright catalog https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First
 
